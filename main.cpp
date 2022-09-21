@@ -1,5 +1,7 @@
 #Cesar Arnouk 260847683
+#cesar.arnouk@mail.mcgill.ca
 #Andrew Geday 260834063
+#andrew.geday@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
